@@ -1,5 +1,5 @@
 {
-  "name": "marsquai-sample-npm-package",
+  "name": "@ogipochi/marsquai-sample-npm-package",
   "version": "1.0.0",
   "description": "my sample package",
   "main": "index.js",
