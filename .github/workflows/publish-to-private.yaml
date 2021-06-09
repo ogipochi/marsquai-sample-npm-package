@@ -17,6 +17,7 @@ jobs:
           scope: '@ogipochi'
       - run: npm install
       - run: npx tsc
+      - run: ls
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
