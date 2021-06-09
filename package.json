@@ -4,7 +4,7 @@
   "description": "my sample package",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "files": ["lib/*/**"],
+  "files": ["./lib/*/**"],
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/@ogipochi"
   },
