@@ -1,0 +1,31 @@
+{
+  "name": "marsquai-sample-npm-package",
+  "version": "1.0.0",
+  "description": "my sample package",
+  "main": "index.js",
+  "files": ["./lib/*/**"],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/ogipochi"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogipochi/marsquai-sample-npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogipochi/marsquai-sample-npm-package/issues"
+  },
+  "homepage": "https://github.com/ogipochi/marsquai-sample-npm-package#readme",
+  "devDependencies": {
+    "@types/jsonwebtoken": "^8.5.1",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
