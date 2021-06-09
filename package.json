@@ -1,9 +1,10 @@
 {
   "name": "@ogipochi/marsquai-sample-npm-package",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "my sample package",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
+  "files": ["lib/*/**"],
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/@ogipochi"
   },
