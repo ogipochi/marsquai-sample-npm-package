@@ -5,7 +5,7 @@
   "main": "index.js",
   "files": ["./lib/*/**"],
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/ogipochi"
+    "registry":"https://npm.pkg.github.com/@ogipochi"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
