@@ -1,6 +1,6 @@
 {
   "name": "@ogipochi/marsquai-sample-npm-package",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "my sample package",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
